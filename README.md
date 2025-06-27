@@ -3,6 +3,7 @@
 ## 🎯 Project Overview
 
 An interactive chatbot that recommends books based on your mood or query. It uses the Book-Crossing dataset from Kaggle and performs semantic similarity search using sentence-transformers and FAISS.
+[👉 Open the Colab Notebook](https://colab.research.google.com/drive/1ea5-7Xxove7n8hLGEetxibLZ1y94Jmjh?usp=sharing)
 
 ## 🚀 Tech Stack
 
